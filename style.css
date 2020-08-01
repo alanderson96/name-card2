@@ -22,3 +22,7 @@ footer {
   border-bottom-left-radius: 1em;
   border-bottom-right-radius: 1em;
 }
+.input {
+  margin: 0 auto;
+  text-align: center;
+}
